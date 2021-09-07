@@ -16,4 +16,5 @@ Click anywhere in the window to generate a new tree.
 
 ## Example
 Output image.
+
 ![output](./output.png?raw=true)
